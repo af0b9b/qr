@@ -54,7 +54,7 @@ Tutti i QR destinati a distribuzione fisica devono essere generati tramite il si
 
 ---
 
-## Linee guida per gli Utenti (chi scansiona)
+## Linee guida per gli Utenti.
 
 ### Rischi concreti
 - Phishing e siti clone.  
